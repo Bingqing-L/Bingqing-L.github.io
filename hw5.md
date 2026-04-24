@@ -50,4 +50,4 @@ Interactivity is implemented using a dropdown selection bound to the License Sta
 
 ## Analysis
 
-[The Analysis](https://github.com/Bingqing-L/Bingqing-L.github.io/main/Workbook(1).ipynb)
+[The Analysis](https://github.com/Bingqing-L/Bingqing-L.github.io/blob/main/Workbook (1).ipynb)
