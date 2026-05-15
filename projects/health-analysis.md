@@ -24,9 +24,11 @@ Health outcomes vary widely across the United States, and these differences are 
 
 <div id="chart1"></div>
 
+{% raw %}
 <script>
 vegaEmbed('#chart1', '/projects/chart1_map.json');
 </script>
+{% endraw %}
 
 The choropleth map reveals a strong geographic pattern in health outcomes across U.S. counties. When switching between obesity, diabetes, and hypertension, counties in the southern region, particularly Mississippi, Alabama, Louisiana, and West Virginia, consistently appear in the darkest shades, indicating prevalence rates often exceeding 35–45%. 
 
@@ -40,9 +42,11 @@ Overall, the map highlights a clear geographic divide: the southern United State
 
 <div id="chart2"></div>
 
+{% raw %}
 <script>
 vegaEmbed('#chart2', '/projects/chart2_state_obesity.json');
 </script>
+{% endraw %}
 
 The state-level comparison highlights the magnitude of differences in obesity rates across the United States. States such as Mississippi (~43%), Louisiana (~42%), and Alabama (~41%) rank among the highest, while states like Colorado and the District of Columbia have rates closer to 20–25%.
 
@@ -56,9 +60,11 @@ This contrast shows that health disparities are not only visible at the county l
 
 <div id="chart3"></div>
 
+{% raw %}
 <script>
 vegaEmbed('#chart3', '/projects/chart3_scatter.json');
 </script>
+{% endraw %}
 
 The scatter plot demonstrates a strong positive relationship between physical inactivity and diabetes rates across U.S. counties. As the percentage of adults with no leisure-time physical activity increases from around 15% to over 40%, diabetes rates also rise from approximately 6% to above 20%.
 
