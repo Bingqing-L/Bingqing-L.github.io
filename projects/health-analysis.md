@@ -73,20 +73,17 @@ This consistent upward trend suggests that physical inactivity is a strong predi
 Across all three visualizations, a consistent pattern emerges: geography and behavior are strongly linked to health outcomes. Southern regions consistently experience higher rates of obesity, diabetes, and related conditions, while western and northeastern regions tend to perform better. These findings highlight the importance of addressing both regional inequalities and behavioral risk factors in improving public health outcomes.
 
 ---
+## Data
 
-## Data and Code
+[CDC PLACES Dataset (Health Data)](https://data.cdc.gov/resource/swc5-untb.csv)
 
-**Health Data:**  
-CDC PLACES: Local Data for Better Health  
-https://data.cdc.gov/resource/swc5-untb.csv  
+[U.S. County Boundary Data (us-atlas)](https://cdn.jsdelivr.net/npm/us-atlas@3/counties-10m.json)
 
-**Geographic Boundary Data:**  
-U.S. county boundary shapefiles provided by the us-atlas project  
-https://cdn.jsdelivr.net/npm/us-atlas@3/counties-10m.json   
+---
 
-**Python Analysis Notebook:**  
-The full analysis, including data cleaning, transformation, and visualization code, is available here:  
-https://github.com/YOUR_USERNAME/YOUR_REPO/blob/main/YOUR_NOTEBOOK.ipynb  
+## Analysis
+
+[View Full Analysis Notebook](https://github.com/Bingqing-L/Bingqing-L.github.io/blob/main/projects/Workbook).ipynb)
 
 ---
 
