@@ -46,7 +46,7 @@ vegaEmbed('#chart2', '/projects/chart2_state_obesity.json');
 
 The state-level comparison highlights the magnitude of differences in obesity rates across the United States. States such as Mississippi (~43%), Louisiana (~42%), and Alabama (~41%) rank among the highest, while states like Colorado and the District of Columbia have rates closer to 25-27%.
 
-This means that the average obesity rate in the highest-ranking states is nearly double that of the lowest-ranking states. Additionally, the top 10 states with the highest obesity rates are concentrated in the South and parts of the Midwest, whereas the lowest 10 are primarily located in the Northeast and West.
+This means that the average obesity rate in the highest-ranking states is nearly 70% higher than those in the lowest-ranking states. Additionally, the top 10 states with the highest obesity rates are concentrated in the South and parts of the Midwest, whereas the lowest 10 are primarily located in the Northeast and West.
 
 This contrast shows that health disparities are not only visible at the county level but are also deeply embedded at the state level, reinforcing the idea that geography plays a critical role in shaping health outcomes.
 
