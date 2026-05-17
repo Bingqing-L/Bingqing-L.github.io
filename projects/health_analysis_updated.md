@@ -122,9 +122,9 @@ Overall, these findings suggest that improving public health outcomes may requir
 All visualizations in this project were created by the authors using Python and the Altair visualization library. 
 
 Charts 1–3 (the choropleth map, state-level bar chart, and inactivity vs. diabetes scatter plot) were generated using the CDC PLACES dataset. The code used to create these visualizations is available in the main analysis notebook:  
-https://github.com/Bingqing-L/Bingqing-L.github.io/blob/main/projects/Workbook.ipynb  
+[Main Analysis Notebook (Charts 1–3)](https://github.com/Bingqing-L/Bingqing-L.github.io/blob/main/projects/Workbook.ipynb)
 
 Chart 4 (poverty vs. obesity scatter plot) uses an additional dataset from the U.S. Census Bureau’s Small Area Income and Poverty Estimates (SAIPE), 2021. The code used to create this visualization is available in the poverty analysis notebook:  
-https://github.com/Bingqing-L/Bingqing-L.github.io/blob/main/projects/Workbook1.ipynb  
+[Poverty Analysis Notebook (Chart 4)](https://github.com/Bingqing-L/Bingqing-L.github.io/blob/main/projects/Workbook1.ipynb)
 
 All figures are original and fully reproducible from the provided code.
