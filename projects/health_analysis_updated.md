@@ -16,7 +16,7 @@ title: "How Healthy Is Your County?"
 
 ## Introduction
 
-Health outcomes vary widely across the United States, and these differences are not random. Using county-level data from the CDC PLACES dataset, this project explores how geographic location and behavioral factors jointly shape public health outcomes such as obesity, diabetes, and physical inactivity.
+Health outcomes vary widely across the United States, and these differences are not random. Using county-level data from the CDC PLACES dataset, this project explores how geographic location, behavioral factors, and economic conditions jointly shape public health outcomes such as obesity, diabetes, and physical inactivity. By combining multiple datasets, this analysis examines not only where health disparities exist, but also why they may occur. In particular, it investigates how patterns of physical inactivity and poverty relate to worse health outcomes across regions.
 
 ---
 
