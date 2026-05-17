@@ -34,6 +34,8 @@ In contrast, counties in the West and Northeast generally appear in lighter colo
 
 Overall, the map highlights a clear geographic divide: the southern United States experiences significantly worse health outcomes compared to other regions, pointing to systemic regional inequalities in public health.
 
+Some counties appear missing in the map because of how the data was cleaned and prepared before visualization. First, the dataset was filtered to include only age-adjusted prevalence values. This means that if a county does not have age-adjusted data for a given health measure, it is removed at this step. Next, the data was reshaped so that each county has multiple health measures (such as obesity, diabetes, smoking, etc.) in a single row. However, not every county has data for every measure. When this happens, missing values (NaN) are created. To ensure consistency across the visualization, counties with missing values in any of the selected health measures were removed. This step guarantees that all displayed counties have complete data for all metrics, but it also means that some counties are excluded entirely. As a result of these steps, only counties with complete, consistent, and properly matched data are shown in the map, while counties with missing or unmatched data appear blank.
+
 ---
 
 ## Context 1: State-Level Differences
